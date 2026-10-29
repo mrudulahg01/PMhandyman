@@ -4,6 +4,8 @@
 
 ## Prototype link
 
+Local dashboard: [Customer Journey Friction Radar](index.html). Open the HTML file directly in your browser. Source and run instructions: [README](README.md).
+
 _The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
 
 _____

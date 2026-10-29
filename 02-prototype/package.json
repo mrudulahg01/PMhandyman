@@ -1,0 +1,11 @@
+{
+  "name": "customer-journey-friction-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node build.mjs && node server.mjs",
+    "build": "node build.mjs",
+    "test": "node build.mjs && node --test tests/*.test.mjs"
+  }
+}
